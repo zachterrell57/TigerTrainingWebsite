@@ -74,7 +74,7 @@ nav ul {
 /* -----Home Section----- */
 #home {
   min-height: 100vh;
-  background: url("/img/field.jpeg");
+  background: url("./img/field.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
