@@ -180,7 +180,8 @@ nav ul {
 }
 
 #who,
-#how {
+#how,
+#absence {
   margin-bottom: 0.5rem;
   padding: 2rem;
   background: rgba(19, 28, 39, 0.8);
