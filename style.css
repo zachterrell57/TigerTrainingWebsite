@@ -198,6 +198,21 @@ nav ul {
 }
 /* -----End Register Section----- */
 
+footer {
+  display: flex;
+  flex: 1 1 40rem;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  min-height: 8rem;
+  background-color: rgb(56, 56, 56);
+  color: lightgray;
+}
+
+footer a {
+  padding: 2rem;
+}
+
 /* -----Contact Section----- */
 #contact {
   min-height: 100vh;
@@ -285,5 +300,9 @@ nav ul {
 
   #requirements h2 {
     font-size: 1.5rem;
+  }
+
+  footer h2 {
+    font-size: 1.6rem;
   }
 }
