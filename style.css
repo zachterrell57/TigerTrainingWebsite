@@ -117,6 +117,8 @@ nav ul {
 #days {
   margin: 1rem;
   padding: 3rem;
+  width: 50%;
+  text-align: center;
   border-radius: 20px;
   background: rgba(19, 28, 39, 0.8);
 }
