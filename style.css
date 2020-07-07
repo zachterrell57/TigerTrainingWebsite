@@ -180,9 +180,8 @@ nav ul {
 }
 
 #who,
-#how,
-#absence {
-  margin-bottom: 0.5rem;
+#how {
+  margin-bottom: 10rem;
   padding: 2rem;
   background: rgba(19, 28, 39, 0.8);
   border-radius: 20px;
@@ -190,6 +189,12 @@ nav ul {
 
 #who h1 {
   text-decoration: underline;
+}
+
+#map > img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 4rem;
 }
 
 #form {
