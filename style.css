@@ -99,6 +99,10 @@ nav ul {
   text-align: center;
 }
 
+#notice {
+  color: yellow;
+}
+
 #info {
   display: flex;
   flex: 1 1 40rem;
