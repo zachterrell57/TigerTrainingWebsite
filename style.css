@@ -80,6 +80,10 @@ nav ul {
   background-size: cover;
   background-position: center;
   color: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #logo {
@@ -133,11 +137,12 @@ nav ul {
   font-size: 3rem;
 }
 
-.cards {
+.cards {  
   width: 90%;
   margin: auto;
   padding-bottom: 1rem;
   display: flex;
+  flex-direction: column;
   align-items: center;
   flex-wrap: wrap;
   color: black;
@@ -145,8 +150,8 @@ nav ul {
 
 .card {
   text-align: center;
-  flex: 1 1 15rem;
-  height: 70vh;
+  height: auto;
+  width: 80vw;
   margin: 1rem 1rem;
   padding: 2rem;
   border-radius: 20px;
